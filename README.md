@@ -18,4 +18,7 @@ Kubernetes apiserver--> 12006 --> https://grafana.com/grafana/dashboards/12006-k
 
 
 
+![prometheus-screenshot](https://github.com/Nuwas/Monitoring/assets/32307939/70bed845-68a9-4c68-a6c1-da5db111db2b)
+
+
 
